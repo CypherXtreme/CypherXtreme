@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @CypherXtreme
-- 👀 I’m interested in Mobile App development
-- 🌱 I’m currently learning Kotlin and Android studio
-- 💞️ I’m looking to collaborate on Mobile Application
-- 📫 How to reach me : Email me
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Django and RestAPI
+- 💞️ I’m looking to collaborate on Web Application
+- 📫 How to reach me : Email me on sonofamitvera@gmail.com
 - 😄 Pronouns: Nothing 
-- ⚡ Fun fact: I will show consistency.
+- ⚡ Fun fact: I will not show consistency.
 
 <!---
 CypherXtreme/CypherXtreme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
