@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Django and RestAPI
 - 💞️ I’m looking to collaborate on Web Application
-- 📫 How to reach me : Email me on sonofamitvera@gmail.com
+- 📫 How to reach me : Email me on sonofamitverma@gmail.com
 - 😄 Pronouns: Nothing 
 - ⚡ Fun fact: I will not show consistency.
 
